@@ -1,0 +1,8 @@
+-qwC2%Pnx%x%q0s2u1%s%uN0%I0p7DaK0H0%kf2o0A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://holistic-web.local/ -O1 "D:\Vishvambhar\Temporal-Documents\repositories\holistic-web\holistic-web" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+File generated automatically on Wed, 25 Oct 2023 00:19:03, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
