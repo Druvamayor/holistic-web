@@ -1,0 +1,9 @@
+/*Ultimate Addons for Gutemberg*/
+/*----------------------------*/
+
+/*Customized Blocks*/
+.hero-uag-block {
+	margin-top: -212px;
+	padding-top: 0 !important;
+	z-index: 1;
+}

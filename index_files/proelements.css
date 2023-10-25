@@ -1,0 +1,32 @@
+/*Pro-elements CSS*/
+/*---------------*/
+/*Elementor menu cart*/
+.elementor-menu-cart__product {
+  display: block !important;
+}
+
+.elementor-menu-cart__product-image {
+  margin-bottom: 1rem;
+}
+
+.elementor-menu-cart__product .variation {
+  display: block !important;
+}
+
+.elementor-menu-cart__product-name dl.variation dt.variation-Vendor {
+  color: #feff00;
+}
+
+.elementor-menu-cart__subtotal strong {
+  color:#ffffff;
+}
+
+.elementor-menu-cart__product-remove {
+  background: #fa8f2a !important;
+  border-color: #fa8f2a !important;
+  margin-right: 12px !important;
+}
+
+.elementor-menu-cart__product-remove::before {
+  color: #ffffff !important;
+}
