@@ -11,4 +11,4 @@ Holistic
 ## Software Used
 Theme framework called Gantry and Wordpress CMS
 ## Type of website
-Dynamic web converted to static web for portfolio sample purposes on Github. 
+Dynamic web converted to static web for portfolio sample purposes for Github. 
